@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lollipop Bank", "Lollipop Bank.csproj", "{DF393ED0-18FA-4013-BD30-F595BA4F149F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF393ED0-18FA-4013-BD30-F595BA4F149F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF393ED0-18FA-4013-BD30-F595BA4F149F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF393ED0-18FA-4013-BD30-F595BA4F149F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF393ED0-18FA-4013-BD30-F595BA4F149F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336A5556-D9C4-4F74-AA04-86485CDF470C}
+	EndGlobalSection
+EndGlobal

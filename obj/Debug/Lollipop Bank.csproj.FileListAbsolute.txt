@@ -1,0 +1,74 @@
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.Log_In.resources
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.Properties.Resources.resources
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop Bank.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop Bank.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Lollipop Bank\bin\Debug\Lollipop Bank.exe.config
+C:\Users\User\Source\Repos\Lollipop Bank\bin\Debug\Lollipop Bank.exe
+C:\Users\User\Source\Repos\Lollipop Bank\bin\Debug\Lollipop Bank.pdb
+C:\Users\User\Source\Repos\Lollipop Bank\bin\Debug\EntityFramework.dll
+C:\Users\User\Source\Repos\Lollipop Bank\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Source\Repos\Lollipop Bank\bin\Debug\EntityFramework.xml
+C:\Users\User\Source\Repos\Lollipop Bank\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop Bank.csproj.CopyComplete
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop Bank.exe
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop Bank.pdb
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.menu.resources
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.allcoustomer.resources
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.update.resources
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.changepassword.resources
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.currentbalance.resources
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.fdeposit.resources
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.ftransfer.resources
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.fwithdraw.resources
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop Bank.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Lollipop Bank\obj\Debug\Lollipop_Bank.creataccount.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\bin\Debug\Lollipop Bank.exe.config
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\bin\Debug\Lollipop Bank.exe
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\bin\Debug\Lollipop Bank.pdb
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\bin\Debug\EntityFramework.dll
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\bin\Debug\EntityFramework.xml
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop Bank.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.allcoustomer.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.changepassword.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.creataccount.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.currentbalance.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.fdeposit.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.ftransfer.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.fwithdraw.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.Log_In.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.menu.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.Properties.Resources.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.update.resources
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop Bank.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop Bank.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop Bank.csproj.CopyComplete
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop Bank.exe
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop Bank.pdb
+C:\Users\User\Source\Repos\Lollipop Bank\Lollipop-Bank\obj\Debug\Lollipop_Bank.adminsignup.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\bin\Debug\Lollipop Bank.exe.config
+E:\SQL SERVER\Projects\Lollipop-Bank\bin\Debug\Lollipop Bank.exe
+E:\SQL SERVER\Projects\Lollipop-Bank\bin\Debug\Lollipop Bank.pdb
+E:\SQL SERVER\Projects\Lollipop-Bank\bin\Debug\EntityFramework.dll
+E:\SQL SERVER\Projects\Lollipop-Bank\bin\Debug\EntityFramework.SqlServer.dll
+E:\SQL SERVER\Projects\Lollipop-Bank\bin\Debug\EntityFramework.xml
+E:\SQL SERVER\Projects\Lollipop-Bank\bin\Debug\EntityFramework.SqlServer.xml
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop Bank.csprojAssemblyReference.cache
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.adminsignup.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.allcoustomer.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.changepassword.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.creataccount.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.currentbalance.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.fdeposit.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.ftransfer.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.fwithdraw.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.Log_In.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.menu.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.Properties.Resources.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop_Bank.update.resources
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop Bank.csproj.GenerateResource.cache
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop Bank.csproj.CoreCompileInputs.cache
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop Bank.csproj.CopyComplete
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop Bank.exe
+E:\SQL SERVER\Projects\Lollipop-Bank\obj\Debug\Lollipop Bank.pdb
